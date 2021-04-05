@@ -36,7 +36,7 @@ Once the image is built, run the docker
 
 docker run -d -p 5001:5001 backend:latest
 
-Open the UI in browser : http://<IP-ADDRESS>:4200
+Open the UI in browser : http://youripaddress:4200
   
 
 
